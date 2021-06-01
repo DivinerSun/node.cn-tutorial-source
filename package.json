@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "jsdom": "^16.6.0",
+    "progress": "^2.0.3",
+    "vant": "2.12.20"
+  }
+}

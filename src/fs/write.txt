@@ -1,0 +1,4 @@
+writeFileSync写入的内容
+writeFile写入的内容
+writeFileSync写入的内容
+writeFile写入的内容
